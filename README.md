@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![image (1)](https://user-images.githubusercontent.com/92393769/189714256-4dffd266-f680-4b3f-8e59-43668aa1e964.png)
+
 
 <!--
 **jonipaisanos/jonipaisanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
